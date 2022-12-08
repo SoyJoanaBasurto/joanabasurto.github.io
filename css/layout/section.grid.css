@@ -1,0 +1,13 @@
+.section {
+  display: flex;
+  min-height: 100vh;
+}
+.backround {
+  background-color: blanchedalmond;
+}
+.profile {
+  background-image: url("./../../img/fondoflores.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
